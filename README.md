@@ -1,9 +1,6 @@
 # AES128
 
-# AES128
-
-
- About IP
+About IP
 
 This IP was developed in order to:
 
