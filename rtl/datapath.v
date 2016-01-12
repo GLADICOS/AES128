@@ -319,13 +319,13 @@ generate
 						begin 
 								if(iv_en[l] || iv_cnt_en) 
 								begin
-	
+									
 									if(mode_ctr)
 										iv[l] <= (iv_cnt_sel) ? iv[l] + 1'b1 : bus_in;
 
 									else
 										iv[l] <= (iv_cnt_sel) ? iv[l] : bus_in;
-								
+									
 									
 									//iv[l] <= (iv_cnt_sel) ? iv[l] : bus_in;
 								end

@@ -4056,9 +4056,14 @@ static int mon_calltf(char*user_data)
 
 
 
-					}//counter == 12
-					else 
+					}else if(type_bfm == SUFLE_TEST && counter_monitor == 12) 
 					{
+
+
+						//printf("CONFIGURATION REGISTER %d \n",I); 
+						//printf("KEY         %X %X %X %X \n",A,B,C,D);
+						//printf("IVR         %X %X %X %X \n",E,F,G,H);
+						//printf("TEXT CYPHER %X %X %X %X \n",J,L,M,N);
 
 
 					}

@@ -85,14 +85,14 @@ static int aes_bfm_generate_calltf(char*user_data)
 	if(v_generate.value.integer == 1)
 	{
 
-			FIPS_ENABLE =FIPS;
+			FIPS_ENABLE =RANDOM_DATA;
 			DATATYPE = TYPE_00;
 
 //			type_bfm = AES_WR_ONLY;
 //			type_bfm = AES_WR_ERROR_DINR_ONLY;
 //			type_bfm = AES_WR_ERROR_DOUTR_ONLY;
 
-			type_bfm = ECB_ENCRYPTION;
+//			type_bfm = ECB_ENCRYPTION;
 //			type_bfm = ECB_DECRYPTION;
 //			type_bfm = ECB_KEY_GEN;
 //			type_bfm = ECB_DERIVATION_DECRYPTION;
@@ -138,7 +138,7 @@ static int aes_bfm_generate_calltf(char*user_data)
 //			type_bfm = CTR_KEY_GEN_CCFIE;
 //			type_bfm = CTR_DERIVATION_DECRYPTION_CCFIE;
 
-//			type_bfm = SUFLE_TEST;
+			type_bfm = SUFLE_TEST;
 
 
 			if(PACKETS_GENERATED == MAX_ITERATIONS)

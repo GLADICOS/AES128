@@ -454,7 +454,11 @@ static int init_calltf(char*user_data)
 	vector_address[8]= ADDR_AES_IVR0;
 	vector_address[9]= ADDR_AES_SR;
 
-
+	/*
+		THIS IS TO BE USED LIKE A BACKUP VALUE FROM LAST CR GENERATED ON SUFLE 
+	*/
+	last_cr = 0 ;
+	counter_sufle = 0 ;
 
 	v_initial.format=vpiIntVal;
 

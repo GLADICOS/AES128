@@ -37,3 +37,9 @@ MODS ECB/CBC/CTR with DATATYPE configurations is done.
 
 10 - 02 - 2015
  Corrected ECB / CBC / CTR Key gen CR .
+
+
+
+05 - 04 - 2015
+
+I see the trunk when you try to compile the env it give a error, so if you want compile i recommend you put a folder from icarus verilog on same folder where env is it. i tried fix it to make more simple.
