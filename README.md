@@ -2,8 +2,8 @@
 
 ###Donate and help us donating mining for us on a mining pool
 
- # stratum+tcp://192.168.10.242:4444 litecoin 
- # stratum+tcp://192.168.10.242:3333 bitcoin
+ ## litecoin : stratum+tcp://192.168.10.242:4444  
+ ## bitcoin  : stratum+tcp://192.168.10.242:3333 
 
 About IP
 
