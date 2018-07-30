@@ -1,6 +1,9 @@
 # AES128
 
-- Donate biticoin: 1CSZ9nHBWxLaf1nU9E9E15GAjKcYXD1wnV
+###Donate and help us donating mining for us on a mining pool
+
+ # stratum+tcp://192.168.10.242:4444 litecoin 
+ # stratum+tcp://192.168.10.242:3333 bitcoin
 
 About IP
 
