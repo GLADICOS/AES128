@@ -1,3 +1,29 @@
+## Notice to Brazilians who wish someday work those things
+
+Eu escrevo isso aqui no opencores como aprendizado pessoal e gostaria de compartilhar afim de que outras pessoas desavisadas sobre microeletronica e afins na america latina. Como eu realmente coloquei tempo nisso em tentar algo opensource e que agrega-se para pessoas e na minha carreira profissional; o que não ocorreu e ainda me prejudicou muito na minha vida pessoal e financeira. Eu não estou tentando ser desrespeitoso; mas quando não reciprocidade é dever das pessoas expor e buscar alertar os demais sobre esses possíveis problemas. 
+	
+	
+Considerações que você deve levar ao querer entrar nesse mundo:
+
+	1. O mundo da microeletronica e doloroso e sem vida
+	2. Sua vida não vai melhorar da forma que você pensa 
+	3. Quem esta empregado sempre vai falar bem da onde trabalha e descreditar quem esta de fora
+	4. Politica e ideologias talvez serão seus maiores amigos indesejaveis nessa carreira
+	5. Paises emergentes não tem futuro para microeletronica
+	6. Quanto mais renome a universidade tem mais arrogante e pre potente elas são
+	7. Seu mestrado ou doutorado não serve para nada "Ha não ser para concurso publico" 
+	8. Faculdades publicas servem apenas para criar marajas e reservas de mercado e são mais destrutivos do que se pensa 
+	9. Empresarios/Empresas vivem de dinheiro do Estado e regalias; nas aparências eles se consideram $euses mas são apenas mortais
+	10.Sua vida é muito curta demais para se sacrificar dessa forma pelos outros e perder tudo; não acredite em tudo que professores e empresas falam
+	11.RHs de qualquer natureza não vão te ajudar da forma que vc pensa; Brace yourselves Spam is comming !
+	12.Programas de governo é sempre voltado para apadrinhados politicos; não alimentem essa gente com seu dinheiro 
+	13.Bolsista é vida de cão
+	14.Submissão total da sua vida aos outros; sem direito a ter salario ou futuro 
+	15.linkedin e outras plataformas não são lugares confiaveis
+
+    Não tentem me julgar por que escrevi isso; afinal é bom avisar. Como eu vivi esse inferno de 2013 - 2022 não creio que vocês possam me julgar pelo que escrevo e adicionei aqui nos meus projetos vai ajudar na minha vida pessoal ou profissional assim como todo, afinal se esforçando para fazer isso não me deu retorno algum e ainda me da a impressão desse ambiente ser mais artificial e de aparências. O mundo vai dar suas voltas e o tempo vai passar e você apenas vai continuar vazio e sem nada. 
+
+
 # AES128
 
 About IP
