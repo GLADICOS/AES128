@@ -89,7 +89,7 @@ static int aes_bfm_encryption_ccfie_ecb_calltf(char*user_data)
 	vpiHandle dma_req_wr = vpi_handle_by_name("AES_GLADIC_tb.dma_req_wr", NULL);
 	vpiHandle dma_req_rd = vpi_handle_by_name("AES_GLADIC_tb.dma_req_rd", NULL);
 
-	std::random_device rd;
+	std::mt19937 rd{std::random_device{}()};
 	std::uniform_int_distribution<long int> data_in(0,4294967295);
 	
 	v_ecb.format=vpiIntVal;

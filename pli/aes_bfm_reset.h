@@ -77,7 +77,7 @@ static int aes_reset_calltf(char*user_data)
 
 	vpiHandle PRESETn = vpi_handle_by_name("AES_GLADIC_tb.PRESETn", NULL);
 
-	std::random_device rd_counter;
+	std::mt19937 rd_counter{std::random_device{}()};
 	std::uniform_int_distribution<int> counter(1,50);
 
  	std::mt19937 rd;

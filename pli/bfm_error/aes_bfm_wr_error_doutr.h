@@ -92,7 +92,7 @@ static int aes_bfm_wr_error_doutr_calltf(char*user_data)
 	v_wr.format=vpiIntVal;
 
 
-	std::random_device rd;
+	std::mt19937 rd{std::random_device{}()};
 	std::uniform_int_distribution<long int> data_in(0,4294967295);
 
 
